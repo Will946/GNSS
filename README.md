@@ -1,6 +1,6 @@
 # ZED-F9P RTK GPS Receiver
 
-![GNSS board](GNSS/PCB/GNSS.png)
+![GNSS board](GNSSPCB/GNSS.png)
 
 Board for an autonomous cart that follows the edge of a lawn and sprays weed killer along the border. Goal is centimeter level positioning using RTK corrections so the cart can hold a precise line along a mapped boundary. Prototyping this board is the only part of the project built so far.
 
